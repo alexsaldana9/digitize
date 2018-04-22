@@ -12,4 +12,6 @@ https://alexsaldana9.github.io/digitize/
 http-server
 ```
 
+The website will be available in http://localhost:8080/ 
+
 [What is `http-server`](https://www.npmjs.com/package/http-server) 
